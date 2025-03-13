@@ -1,7 +1,5 @@
 # Product Scanner with Allergy Analysis
 
-[![Run on Replit](https://replit.com/badge/github/rajveermakkar/AllergyBarcodeScanner)](https://replit.com/@RajveerMakkar1/allergyBarcodeConnect?v=1)
-
 A Flask web application that scans product barcodes and analyzes ingredients for potential allergens. The application supports barcode scanning via camera, manual entry, and image upload.
 
 ## Features
@@ -15,10 +13,12 @@ A Flask web application that scans product barcodes and analyzes ingredients for
 - Support for multiple image formats (JPG, PNG, GIF, HEIC)
 - One-click deployment to Replit
 
-## Quick Start with Replit
+## Quick Start with Replit (RECOMMENDED)
+
+[![Run on Replit](https://replit.com/badge/github/rajveermakkar/AllergyBarcodeScanner)](https://replit.com/@RajveerMakkar1/allergyBarcodeConnect?v=1)
 
 1. Click the "Run on Replit" button above
-2. Sign in to your Replit account (or create one if you don't have it)
+2. Sign in to your Replit account (or create one if you don't have it) and click on remix the app
 3. Wait for the project to import
 4. Create a `.env` file in the Replit project and add your Gemini API key:
    ```
