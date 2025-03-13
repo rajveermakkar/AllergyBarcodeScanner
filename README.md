@@ -15,7 +15,7 @@ A Flask web application that scans product barcodes and analyzes ingredients for
 
 ## Quick Start with Replit
 
-[![Run on Replit](https://replit.com/badge/github/jordan/product-scanner)](https://replit.com/new/github/jordan/product-scanner)
+[![Run on Replit](https://replit.com/badge/github/rajveermakkar/AllergyBarcodeScanner)](https://replit.com/new/github/rajveermakkar/AllergyBarcodeScanner)
 
 1. Click the "Run on Replit" button above
 2. Sign in to your Replit account (or create one if you don't have it)
