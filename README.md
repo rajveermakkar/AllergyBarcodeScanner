@@ -1,6 +1,6 @@
 # Product Scanner with Allergy Analysis
 
-[![Run on Replit](https://replit.com/badge/github/rajveermakkar/AllergyBarcodeScanner)](https://replit.com/new/github/rajveermakkar/AllergyBarcodeScanner)
+[![Run on Replit](https://replit.com/badge/github/rajveermakkar/AllergyBarcodeScanner)](https://replit.com/@RajveerMakkar1/allergyBarcodeConnect?v=1)
 
 A Flask web application that scans product barcodes and analyzes ingredients for potential allergens. The application supports barcode scanning via camera, manual entry, and image upload.
 
