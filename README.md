@@ -4,6 +4,9 @@
 
 A Flask web application that scans product barcodes and analyzes ingredients for potential allergens. The application supports barcode scanning via camera, manual entry, and image upload.
 
+## Live Demo
+Visit the live demo at: [https://allergybarcodescanner-latest.onrender.com](https://allergybarcodescanner-latest.onrender.com)
+
 ## Features
 
 - Live barcode scanning using device camera
@@ -14,9 +17,17 @@ A Flask web application that scans product barcodes and analyzes ingredients for
 - PDF report generation
 - Support for multiple image formats (JPG, PNG, GIF, HEIC)
 - One-click deployment to Replit
+- Docker support for easy deployment
 
-## Quick Start with Replit
+## Quick Start Options
 
+### 1. Using Docker (Recommended)
+```bash
+docker pull rajveer777/allergybarcodescanner
+docker run -p 5004:5004 -e GEMINI_API_KEY=your_api_key_here rajveer777/allergybarcodescanner
+```
+
+### 2. Using Replit
 1. Click the "Run on Replit" button above
 2. Sign in to your Replit account (or create one if you don't have it)
 3. Wait for the project to import
@@ -27,7 +38,7 @@ A Flask web application that scans product barcodes and analyzes ingredients for
 5. Click the "Run" button to start the application
 6. The application will be available at the URL shown in the Replit console
 
-## For installing into your localhost (NOT RECOMMENDED)
+### 3. Local Installation (Advanced)
 ## Prerequisites
 
 ### System Dependencies
@@ -91,6 +102,7 @@ Enter your allergies (comma-separated) in the provided input field before scanni
 - The application uses the Open Food Facts API for product information
 - Allergy analysis is performed using Google's Gemini AI model
 - When running on Replit, the application will be accessible via the provided Replit URL
+- Docker container includes all necessary system dependencies
 
 ## License
 
