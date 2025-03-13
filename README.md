@@ -96,7 +96,7 @@ Enter your allergies (comma-separated) in the provided input field before scanni
 
 MIT License
 
-Copyright (c) 2024 Rajveer-Jordan
+Copyright (c) 2024 Rajveer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -118,4 +118,4 @@ SOFTWARE.
 
 ## Author
 
-Rajveer - Jordan
+Rajveer
