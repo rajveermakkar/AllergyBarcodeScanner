@@ -27,6 +27,7 @@ A Flask web application that scans product barcodes and analyzes ingredients for
 5. Click the "Run" button to start the application
 6. The application will be available at the URL shown in the Replit console
 
+## For installing into your localhost (NOT RECOMMENDED)
 ## Prerequisites
 
 ### System Dependencies
@@ -95,7 +96,7 @@ Enter your allergies (comma-separated) in the provided input field before scanni
 
 MIT License
 
-Copyright (c) 2024 Jordan
+Copyright (c) 2024 Rajveer-Jordan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -117,4 +118,4 @@ SOFTWARE.
 
 ## Author
 
-Jordan
+Rajveer - Jordan
