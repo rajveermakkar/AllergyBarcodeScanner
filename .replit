@@ -1,0 +1,9 @@
+run = "python app.py"
+hidden = [".config", "**/__pycache__", "**/.mypy_cache", "**/*.pyc"]
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+run = ["sh", "-c", "python app.py"]
+deploymentTarget = "cloudrun" 
